@@ -12,7 +12,7 @@ namespace CourseAdm.Controllers
     {
         public IActionResult Index()
         {
-            // Prueba.//
+            // Prueba.///
             return View();
         }
 
